@@ -486,6 +486,12 @@ hr {
   }
 }
 
+@media (max-width: 768px) {
+	.zeze {
+		max-height: 40%;
+	}
+}
+
 /*
 *
 * Backgrounds
