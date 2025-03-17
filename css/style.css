@@ -479,9 +479,9 @@ hr {
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 500px) {
 	.zeze {
-		max-height: 40%;
+		display: none;
 	}
 }
 
