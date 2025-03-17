@@ -352,13 +352,6 @@ h5,
   }
 }
 
-.zeze {
-  overflow-x: auto; /* Allow horizontal scrolling */
-  white-space: nowrap; /* Prevent content from wrapping */
-  scroll-snap-type: x mandatory; /* Optional: Smooth scrolling */
-  -webkit-overflow-scrolling: touch; /* Improve scrolling on iOS */
-}
-
 h6,
 .heading-6 {
   font-size: 17px;
